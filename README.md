@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tangsoklim
 - 👀 I’m interested in technology and coding
-- 🌱 I’m currently learning Iformation Teachnology
+- 🌱 I’m currently learning Information Teachnology
 
 
 <!---
